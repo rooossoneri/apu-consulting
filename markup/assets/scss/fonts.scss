@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'Times-Roman';
+    src: url('../fonts/Times-Roman/Times-Roman.eot');
+    src: url('../fonts/Times-Roman/Times-Roman.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Times-Roman/Times-Roman.woff') format('woff'),
+         url('../fonts/Times-Roman/Times-Roman.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+// @font-face {
+//     font-family: 'Times-Roman';
+//     src: url('../fonts/Times-Roman/Times-Roman.eot');
+//     src: url('../fonts/Times-Roman/Times-Roman.eot?#iefix') format('embedded-opentype'),
+//          url('../fonts/Times-Roman/Times-Roman.woff') format('woff'),
+//          url('../fonts/Times-Roman/Times-Roman.svg#custom_font') format('svg');
+//     font-weight: 400;       // For normal width. It could has another value
+//     font-style: normal;     // Also could has another value
+// }
+
+@font-face {
+    font-family: 'Times-Roman1';
+    src: url('../fonts/Times-Roman1/times-roman-webfont.eot');
+    src: url('../fonts/Times-Roman1/times-roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Times-Roman1/times-roman-webfont.woff') format('woff'),
+         url('../fonts/Times-Roman1/times-roman-webfont.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+
+@font-face {
+    font-family: 'Times-Italic';
+    src: url('../fonts/Times-Italic/Times-Italic.eot');
+    src: url('../fonts/Times-Italic/Times-Italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Times-Italic/Times-Italic.woff') format('woff'),
+         url('../fonts/Times-Italic/Times-Italic.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+
+@font-face {
+    font-family: 'Times-Bold';
+    src: url('../fonts/Times-Bold/Times-Bold.eot');
+    src: url('../fonts/Times-Bold/Times-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Times-Bold/Times-Bold.woff') format('woff'),
+         url('../fonts/Times-Bold/Times-Bold.svg#custom_font') format('svg');
+    font-weight: bold;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+@font-face {
+    font-family: 'Times-BoldItalic';
+    src: url('../fonts/Times-BoldItalic/Times-BoldItalic.eot');
+    src: url('../fonts/Times-BoldItalic/Times-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Times-BoldItalic/Times-BoldItalic.woff') format('woff'),
+         url('../fonts/Times-BoldItalic/Times-BoldItalic.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+
+@font-face {
+    font-family: 'SavoyeLetPlain';
+    src: url('../fonts/SavoyeLetPlain/SavoyeLetPlain.eot');
+    src: url('../fonts/SavoyeLetPlain/SavoyeLetPlain.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SavoyeLetPlain/SavoyeLetPlain.woff') format('woff'),
+         url('../fonts/SavoyeLetPlain/SavoyeLetPlain.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
+
+@font-face {
+    font-family: '-SavoyeLetPlainCC';
+    src: url('../fonts/-SavoyeLetPlainCC/-SavoyeLetPlainCC.eot');
+    src: url('../fonts/-SavoyeLetPlainCC/-SavoyeLetPlainCC.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/-SavoyeLetPlainCC/-SavoyeLetPlainCC.woff') format('woff'),
+         url('../fonts/-SavoyeLetPlainCC/-SavoyeLetPlainCC.svg#custom_font') format('svg');
+    font-weight: 400;       // For normal width. It could has another value
+    font-style: normal;     // Also could has another value
+}
